@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/starkebenedictworan/.android/build-cache/a21e155c061b5e40d99e6eba5e58367a77946fcb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/starkebenedictworan/Documents/dopeworks GIT/L android folder/el pertama/el-pertama/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fd8a05d9b5d7ac3f7769a726349496fedda7643a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starkebenedictworan/.android/build-cache/fc77a533f3783155351698148e608f87b757507d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/starkebenedictworan/Documents/dopeworks GIT/L android folder/el pertama/el-pertama/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_00189d2b59ef0e345b81eea9a6634c9c8465c14b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starkebenedictworan/.android/build-cache/1dae78f6a039ed187dea2923d46c41f88a129684/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/starkebenedictworan/Documents/dopeworks GIT/L android folder/el pertama/el-pertama/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_93c5b4188d8ee09dc3e1c5a1be436734e9a513e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starkebenedictworan/.android/build-cache/a3d8039c32b02d9a1ef757668639691cce3ce868/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/starkebenedictworan/Documents/dopeworks GIT/L android folder/el pertama/el-pertama/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22815c441066a3912a2786e7f6e44205225600c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starkebenedictworan/.android/build-cache/9051f747e21b781c1bcdf88e4cfbc75f4de3bf3a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/starkebenedictworan/Documents/dopeworks GIT/L android folder/el pertama/el-pertama/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a415a20f43e71dfeb39d13683e978b04b8a78b79/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starkebenedictworan/.android/build-cache/77f9ce64fa699fce17863f6b901f93c26944d3be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/starkebenedictworan/Documents/dopeworks GIT/L android folder/el pertama/el-pertama/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_947066a1165038e9b7ad99a1534b4a4567b4a8e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starkebenedictworan/Documents/dopeworks GIT/L android folder/el pertama/el-pertama/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28eb533b8c4e4d3c848bc4d45cef65dd8f9536e5">
+        <dex dex="/Users/starkebenedictworan/Documents/dopeworks GIT/L android folder/el pertama/el-pertama/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c4fee1c27b9f20a8da2488fd19c0dcd00c54836a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starkebenedictworan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/starkebenedictworan/Documents/dopeworks GIT/L android folder/el pertama/el-pertama/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_fb3fa4768d2c60fb9f7c2489fa87c9e1c2187712/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starkebenedictworan/.android/build-cache/26b85b9cfe141589ee53caca981ba8979919cc56/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/starkebenedictworan/Documents/dopeworks GIT/L android folder/el pertama/el-pertama/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df46e73f8d8607cf359e8842853c18af2dfa0931/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starkebenedictworan/.android/build-cache/69235ef7deedc69494eb9f883a0eb0fefe478adb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/starkebenedictworan/Documents/dopeworks GIT/L android folder/el pertama/el-pertama/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_50c20dfed850b8ce4f37c70bca6acc00340e86eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starkebenedictworan/.android/build-cache/3f1e293cb00c6e3b3634f9c011ce7629d0d15ddd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/starkebenedictworan/Documents/dopeworks GIT/L android folder/el pertama/el-pertama/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a6a0eb552f81d8bcd93ec2aed74b4e34a909f11d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starkebenedictworan/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/starkebenedictworan/Documents/dopeworks GIT/L android folder/el pertama/el-pertama/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_6feea302955b341706b44ac438d6685ec25a0b56/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starkebenedictworan/.android/build-cache/e9bbe1b1c9410a527305c444f9307873fa7ccdc7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/starkebenedictworan/Documents/dopeworks GIT/L android folder/el pertama/el-pertama/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c148cab1ff9a93bfac8859f8f9748f395f2cda8b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starkebenedictworan/.android/build-cache/6f18c1d390332a70b9da5d9d8c9936d6d5fe7a03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/starkebenedictworan/Documents/dopeworks GIT/L android folder/el pertama/el-pertama/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_61ed3bab36e8b027b0f6f101200ac389805e5b59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starkebenedictworan/.android/build-cache/c39cd91b80f8dcd2131c39a56198236a3cb83c34/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/starkebenedictworan/Documents/dopeworks GIT/L android folder/el pertama/el-pertama/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b787976070aa3ce99c5de21ae348e3ef1c6d19ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starkebenedictworan/Documents/dopeworks GIT/L android folder/el pertama/el-pertama/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/starkebenedictworan/Documents/dopeworks GIT/L android folder/el pertama/el-pertama/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3b5a99bf42552438c73661c67e139e29511551c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/starkebenedictworan/.android/build-cache/e6faeb466a85dc1a9a901d7f95099d5e82594edd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/starkebenedictworan/Documents/dopeworks GIT/L android folder/el pertama/el-pertama/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8975563eb438070477ffa1269475cadc94d8294c/classes.dex" />
+    </item>
+
+</items>
